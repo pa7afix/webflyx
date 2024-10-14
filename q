@@ -1,0 +1,29 @@
+[33mcommit af5cf8e92f4e4969d715635a9bc16333fd1b4a0d[m[33m ([m[1;36mHEAD -> [m[1;32madd_classics[m[33m)[m
+Author: Patrick Schaefer <patrick.schaefer@uni-due.de>
+Date:   Mon Oct 14 06:44:11 2024 +0200
+
+    E: update contents.md
+
+[33mcommit 10f33906ec9f102817f3eeb19c095c9695afeba2[m
+Author: Patrick Schaefer <patrick.schaefer@uni-due.de>
+Date:   Mon Oct 14 06:36:52 2024 +0200
+
+    D: add classics
+
+[33mcommit ff4541d865fe5a068ee4beb1b67f7e586243ccdd[m[33m ([m[1;32mmain[m[33m)[m
+Author: Patrick Schaefer <patrick.schaefer@uni-due.de>
+Date:   Mon Oct 14 05:37:16 2024 +0200
+
+    C: add quotes
+
+[33mcommit 89efb8d44eaad1d2d4944fa85814c018fd40a43a[m
+Author: Patrick Schaefer <patrick.schaefer@uni-due.de>
+Date:   Mon Oct 14 05:09:56 2024 +0200
+
+    B: add titles
+
+[33mcommit 831e6b56b6193ef3937b65126b41c33b08980c69[m
+Author: Patrick Schaefer <patrick.schaefer@uni-due.de>
+Date:   Sat Oct 12 04:27:05 2024 +0200
+
+    A: add contents.md
